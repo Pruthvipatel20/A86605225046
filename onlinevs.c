@@ -19,7 +19,6 @@ typedef struct {
     int votes;
 } Candidate;
 
-
 Voter voters[MAX_VOTERS] = {
     {"V001", "1234", 0},
     {"V002", "5678", 0},
