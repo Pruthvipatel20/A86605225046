@@ -31,4 +31,3 @@ def my_function():
 print(global_var) # Accessible here  
 my_function() # Accessible here too
 
-
