@@ -7,7 +7,6 @@ def factorial(n):
 print(factorial(5))
 print(f"factorial(n)is : {factorial(4)}")
 
-
 #DEFINE FUNCTION EX:
 
 def add_numbers(a, b): # 'a' and 'b' are parameters
