@@ -32,7 +32,6 @@ Voter voters[MAX_VOTERS] = {
     {"V010", "6666", 0}
 };
 
-
 Candidate candidates[MAX_CANDIDATES] = {
     {"Arjun Sharma", "Progressive Alliance", 0},
     {"Priya Mehta", "National Front", 0},
