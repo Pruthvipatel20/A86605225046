@@ -1,0 +1,11 @@
+------ABOUT BAR GRAPH------
+
+1.A bar graph is used to represent data using rectangular bars of equal width.
+
+2.The height or length of each bar corresponds to the value it represents.
+
+3.Bar graphs are useful for comparing quantities among different categories.
+
+4.They can be displayed either vertically or horizontally.
+
+5.Bar graphs are easy to understand and widely used in statistics and business reports.
